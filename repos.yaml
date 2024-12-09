@@ -1,0 +1,7 @@
+repositories:
+  - from: "https://github.com/user/repo1.git"
+    to: "https://gitlab.com/user/destination_repo1.git"
+  - from: "https://github.com/user/repo2.git"
+    to: "https://gitlab.com/user/destination_repo2.git"
+  - from: "https://github.com/user/repo3.git"
+    to: "https://gitlab.com/user/destination_repo3.git"
